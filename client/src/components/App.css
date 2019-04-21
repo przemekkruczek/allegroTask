@@ -1,0 +1,12 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.reply {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}

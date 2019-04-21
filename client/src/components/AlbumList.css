@@ -1,0 +1,8 @@
+.album-sort {
+  display: flex;
+  width: 25%;
+  margin: 5px auto;
+  cursor: pointer;
+  background-color: #ffffff;
+  font-size: 16px;
+}

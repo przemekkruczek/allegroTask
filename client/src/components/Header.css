@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.header__logo {
+  height: 90px;
+  background-image: linear-gradient(
+    to right,
+    #a00a8e,
+    #9900a1,
+    #8b00b8,
+    #6f00d0,
+    #2b12eb
+  );
+}
+.header__logo-title {
+  color: #ffffff;
+  font-weight: 600;
+  text-shadow: 2px 2px 3px rgba(84, 84, 84, 1);
+  margin-left: 200px;
+  padding-top: 25px;
+}

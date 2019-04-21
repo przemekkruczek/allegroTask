@@ -1,0 +1,8 @@
+.album-item__tracks-list-header {
+  font-weight: 700;
+  font-size: 17px;
+}
+.album-item__tracks-list-name {
+  font-weight: 600;
+  font-style: italic;
+}

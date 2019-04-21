@@ -1,0 +1,28 @@
+.album-item {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  padding: 5px;
+  cursor: pointer;
+  border-bottom: solid 1px #cdcdcd;
+  border-top: solid 1px #cdcdcd;
+  background-color: #ffffff;
+  transition: 0.4s ease-out;
+}
+.album-item:hover {
+  border-bottom: solid 1px #8b00b8;
+  border-top: solid 1px #8b00b8;
+}
+.album-item__description {
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+}
+.album-item__image {
+  max-width: 120px;
+  max-height: 120px;
+}
+.album-item__description-name {
+  font-size: 18px;
+  font-weight: 700;
+}
